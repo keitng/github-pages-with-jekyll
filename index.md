@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Em đứng đây từ chiều..."
 ---
 
-I'm glad you are here. I plan to talk about ...
+Rất vui khi có bạn ở đây. Trứng rán cần mỡ, bắp cần bơ.
